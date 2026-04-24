@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/thumb-1920-718942.jpg </ImageUrl>
+      <AlternateText>sandeep</AlternateText>
+    <NavigateUrl>http://youtube.com</NavigateUrl>
+    <Impression>1</Impression>
+    <Keyword>ad1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl> ~/images/thumb-1920-718942.jpg</ImageUrl>
+    <AlternateText>sandeep vasita</AlternateText>
+    <NavigateUrl>http://github/sandeepvasita1.com</NavigateUrl>
+    <Impression>2</Impression>
+    <Keyword>ad2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl> ~/images/thumb-1920-718942.jpg</ImageUrl>
+    <AlternateText>king</AlternateText>
+    <NavigateUrl>http://instagram.com</NavigateUrl>
+    <Impression>3</Impression>
+    <Keyword>ad3</Keyword>
+  </Ad>
+</Advertisements>
